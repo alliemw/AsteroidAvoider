@@ -1,0 +1,6 @@
+---------------------------------------------------------------
+ASTEROID AVOIDER
+
+TritonHacks special by Kevin, Allie, Kyra and Lizzie
+---------------------------------------------------------------
+Please go to project export and run the .exe to play the game!
