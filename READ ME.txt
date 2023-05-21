@@ -3,4 +3,13 @@ ASTEROID AVOIDER
 
 TritonHacks special by Kevin, Allie, Kyra and Lizzie
 ---------------------------------------------------------------
-Please go to project export and run the .exe to play the game!
+GITHUB NOTES
+---------------------------------------------------------------
+
+None of us really know how to use github so excuse if anythings weird ...
+
+This program was coded & exported via Godot:
+- asteroidAvoiderZip.zip contains our project files / is a project export
+- AsteroidAvoider.zip is our final export of our project, also downloadable on itch.io (https://alliemews.itch.io/asteroid-avoider)
+
+Fanks :)
